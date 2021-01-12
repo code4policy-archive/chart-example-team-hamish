@@ -19,6 +19,16 @@ body {
   stroke-width: 1.5px;
 }
 
+.chart .line {
+  fill: none;
+  stroke: steelblue; /* sets line to blue? */
+  stroke-width: 1.5px;
+}
+#apple-stock-chart-2 .line {
+  fill: none;
+  stroke: green;
+  stroke-width: 1.5px;
+}
 .chart .overlay {
   fill: none;
   pointer-events: all;
